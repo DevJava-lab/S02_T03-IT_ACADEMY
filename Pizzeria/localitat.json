@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769b6"
+  },
+  "nom": "Premià de Mar"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769b7"
+  },
+  "nom": "Argentona"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769b8"
+  },
+  "nom": "Montmeló"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769b9"
+  },
+  "nom": "SªMªPalautordera"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769ba"
+  },
+  "nom": "El Masnou"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769bb"
+  },
+  "nom": "La Roca del Vallès"
+},{
+  "_id": {
+    "$oid": "645b85a56e9d02d27be769bc"
+  },
+  "nom": "Barcelona"
+}]

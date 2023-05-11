@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40dd"
+  },
+  "nom": "Òscar",
+  "telefon": "617888689",
+  "email": "oscar@gmail.com",
+  "data_alta": {
+    "$date": "2022-09-29T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d3"
+  },
+  "Client_captor": {
+    "$oid": "645a7496b40d5f59540d4106"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40de"
+  },
+  "nom": "Minerva",
+  "telefon": "662491233",
+  "email": "minerva@hotmail.com",
+  "data_alta": {
+    "$date": "2023-01-12T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d8"
+  },
+  "Client_captor": {
+    "$oid": "645a663ab40d5f59540d40dd"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40df"
+  },
+  "nom": "Nerea",
+  "telefon": "664523991",
+  "email": "nerea@yahoo.es",
+  "data_alta": {
+    "$date": "2023-02-14T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d6"
+  },
+  "Client_captor": {
+    "$oid": "645a663ab40d5f59540d40dd"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40e0"
+  },
+  "nom": "Irune",
+  "telefon": "616892443",
+  "email": "irune@yahoo.es",
+  "data_alta": {
+    "$date": "2022-04-22T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d7"
+  },
+  "Client_captor": {
+    "$oid": "645a663ab40d5f59540d40de"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40e1"
+  },
+  "nom": "Toni",
+  "telefon": "602334412",
+  "email": "toni@gmail.com",
+  "data_alta": {
+    "$date": "2023-01-12T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d8"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40e2"
+  },
+  "nom": "Enrique",
+  "telefon": "600845483",
+  "email": "enric@yahoo.es",
+  "data_alta": {
+    "$date": "2022-03-08T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d5"
+  },
+  "Client_captor": {
+    "$oid": "645a663ab40d5f59540d40df"
+  }
+},{
+  "_id": {
+    "$oid": "645a663ab40d5f59540d40e3"
+  },
+  "nom": "Albert",
+  "telefon": "656143653",
+  "email": "albert@hotmail.com",
+  "data_alta": {
+    "$date": "2022-04-22T00:00:00.000Z"
+  },
+  "Adreça": {
+    "$oid": "645a658eb40d5f59540d40d8"
+  },
+  "Client_captor": {
+    "$oid": "645a663ab40d5f59540d40de"
+  }
+}]

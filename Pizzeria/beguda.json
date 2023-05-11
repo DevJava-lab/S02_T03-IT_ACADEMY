@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769f7"
+  },
+  "nom": "Coca-cola",
+  "descripcio": "refresc",
+  "imatge": "link",
+  "preu": 1.5
+},{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769f8"
+  },
+  "nom": "Pepsi-cola",
+  "descripcio": "refresc",
+  "imatge": "link",
+  "preu": 1.4
+},{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769f9"
+  },
+  "nom": "Sprite",
+  "descripcio": "refresc",
+  "imatge": "link",
+  "preu": 1.45
+},{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769fa"
+  },
+  "nom": "Cervessa",
+  "descripcio": "alcohol",
+  "imatge": "",
+  "preu": 1.75
+},{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769fb"
+  },
+  "nom": "Aigua",
+  "descripcio": "refresc",
+  "imatge": "link",
+  "preu": 0.5
+},{
+  "_id": {
+    "$oid": "645bbad56e9d02d27be769fc"
+  },
+  "nom": "Sweppes",
+  "descripcio": "refresc",
+  "imatge": "link",
+  "preu": 1.2
+}]

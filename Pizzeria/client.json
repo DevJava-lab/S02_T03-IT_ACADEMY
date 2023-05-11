@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769ad"
+  },
+  "nom": "Òscar",
+  "cognom_1": "Barbero",
+  "cognom_2": "Prieto",
+  "telefon": 617888689,
+  "adreça": {
+    "carrer": "Fontana",
+    "numero": 43,
+    "pis": 1,
+    "codi_postal": 8020,
+    "localitat": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769ae"
+  },
+  "nom": "Minerva",
+  "cognom_1": "Navarro",
+  "cognom_2": "Pérez",
+  "telefon": 662491233,
+  "adreça": {
+    "carrer": "Menta",
+    "numero": 3,
+    "pis": 5,
+    "codi_postal": 8430,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769bb"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769af"
+  },
+  "nom": "Nerea",
+  "cognom_1": "González",
+  "cognom_2": "Herrera",
+  "telefon": 664523991,
+  "adreça": {
+    "carrer": "Espinal",
+    "numero": 22,
+    "pis": 4,
+    "codi_postal": 8320,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769ba"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769b0"
+  },
+  "nom": "Irune",
+  "cognom_1": "López",
+  "cognom_2": "Sánchez",
+  "telefon": 616892443,
+  "adreça": {
+    "carrer": "Enamorats",
+    "numero": 52,
+    "pis": 1,
+    "codi_postal": 8460,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769b9"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769b1"
+  },
+  "nom": "Toni",
+  "cognom_1": "Alcantara",
+  "cognom_2": "Paez",
+  "telefon": 602334412,
+  "adreça": {
+    "carrer": "Bruc",
+    "numero": 235,
+    "pis": 6,
+    "codi_postal": 8310,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769b7"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769b2"
+  },
+  "nom": "Enrique",
+  "cognom_1": "Jordà",
+  "cognom_2": "Basols",
+  "telefon": 600845483,
+  "adreça": {
+    "carrer": "Granados",
+    "numero": 17,
+    "pis": 2,
+    "codi_postal": 8160,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769b8"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "645b79ec6e9d02d27be769b3"
+  },
+  "nom": "Albert",
+  "cognom_1": "Muñoz",
+  "cognom_2": "Vilalt",
+  "telefon": 656143653,
+  "adreça": {
+    "carrer": "Aribau",
+    "numero": 153,
+    "pis": 4,
+    "codi_postal": 8330,
+    "localitat": {
+      "$oid": "645b85a56e9d02d27be769b6"
+    },
+    "provincia": {
+      "$oid": "645b87c26e9d02d27be769c1"
+    }
+  }
+}]

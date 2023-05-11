@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "645c9337233801e4367fb6aa"
+  },
+  "hora_entrega": {
+    "$date": "2020-03-22T18:20:00.000Z"
+  },
+  "comanda": {
+    "$oid": "645bcdf86e9d02d27be76a10"
+  },
+  "repartidor": {
+    "$oid": "645bb2636e9d02d27be769d8"
+  }
+},{
+  "_id": {
+    "$oid": "645c9337233801e4367fb6ab"
+  },
+  "hora_entrega": {
+    "$date": "2022-03-22T21:25:00.000Z"
+  },
+  "comanda": {
+    "$oid": "645bcdf86e9d02d27be76a12"
+  },
+  "repartidor": {
+    "$oid": "645bb2636e9d02d27be769da"
+  }
+},{
+  "_id": {
+    "$oid": "645c9337233801e4367fb6ac"
+  },
+  "hora_entrega": {
+    "$date": "2021-03-22T20:35:00.000Z"
+  },
+  "comanda": {
+    "$oid": "645bcdf86e9d02d27be76a13"
+  },
+  "repartidor": {
+    "$oid": "645bb2636e9d02d27be769da"
+  }
+}]

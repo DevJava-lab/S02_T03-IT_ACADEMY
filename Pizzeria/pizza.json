@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769e9"
+  },
+  "nom": "Montanya",
+  "descripcio": "vegetariana",
+  "imatge": "link",
+  "preu": 2.5,
+  "categoria": {
+    "nom": "Vegetal"
+  }
+},{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769ea"
+  },
+  "nom": "Carbonara",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 3.4,
+  "categoria": {
+    "nom": "Carn"
+  }
+},{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769eb"
+  },
+  "nom": "Bolonyesa",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 4.4,
+  "categoria": {
+    "nom": "Carn"
+  }
+},{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769ec"
+  },
+  "nom": "Marinera",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 5.75,
+  "categoria": {
+    "nom": "Peix i Marisc"
+  }
+},{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769ed"
+  },
+  "nom": "Hawaiana",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 5.5,
+  "categoria": {
+    "nom": "Vegetal"
+  }
+},{
+  "_id": {
+    "$oid": "645bb8036e9d02d27be769ee"
+  },
+  "nom": "Kebab",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 6.2,
+  "categoria": {
+    "nom": "Carn"
+  }
+}]

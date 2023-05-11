@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f0"
+  },
+  "nom": "Ceba",
+  "descripcio": "vegetariana",
+  "imatge": "link",
+  "preu": 1.5
+},{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f1"
+  },
+  "nom": "Bolonyesa",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 3.4
+},{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f2"
+  },
+  "nom": "Bolonyesa",
+  "descripcio": "picant",
+  "imatge": "link",
+  "preu": 4.4
+},{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f3"
+  },
+  "nom": "Marinera",
+  "descripcio": "normal",
+  "imatge": "link",
+  "preu": 5.75
+},{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f4"
+  },
+  "nom": "Duplex",
+  "descripcio": "extra",
+  "imatge": "link",
+  "preu": 7.5
+},{
+  "_id": {
+    "$oid": "645bb9fc6e9d02d27be769f5"
+  },
+  "nom": "Triplex",
+  "descripcio": "extra",
+  "imatge": "link",
+  "preu": 10
+}]

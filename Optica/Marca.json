@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "645a664fb40d5f59540d40e5"
+  },
+  "nom": "Nike",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  }
+},{
+  "_id": {
+    "$oid": "645a664fb40d5f59540d40e6"
+  },
+  "nom": "D&G",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40ef"
+  }
+},{
+  "_id": {
+    "$oid": "645a664fb40d5f59540d40e7"
+  },
+  "nom": "Carrera",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40ef"
+  }
+},{
+  "_id": {
+    "$oid": "645a664fb40d5f59540d40e8"
+  },
+  "nom": "Ray Ban",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  }
+},{
+  "_id": {
+    "$oid": "645a664fb40d5f59540d40e9"
+  },
+  "nom": "Police",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  }
+}]

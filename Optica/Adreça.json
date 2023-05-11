@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d3"
+  },
+  "carrer": "Fontana",
+  "numero": "43",
+  "pis": "1",
+  "porta": "1",
+  "ciutat": "Barcelona",
+  "codi_postal": "8020",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d4"
+  },
+  "carrer": "Menta",
+  "numero": "3",
+  "pis": "1",
+  "porta": "baix",
+  "ciutat": "La Roca del Vallès",
+  "codi_postal": "8430",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d5"
+  },
+  "carrer": "Espinal",
+  "numero": "22",
+  "pis": "6",
+  "porta": "4",
+  "ciutat": "El Masnou",
+  "codi_postal": "8320",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d6"
+  },
+  "carrer": "Enamorats",
+  "numero": "52",
+  "pis": "3",
+  "porta": "1",
+  "ciutat": "SªMªPalautordera",
+  "codi_postal": "8460",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d7"
+  },
+  "carrer": "Bruc",
+  "numero": "235",
+  "pis": "4",
+  "porta": "A",
+  "ciutat": "Argentona",
+  "codi_postal": "8310",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d8"
+  },
+  "carrer": "Granados",
+  "numero": "17",
+  "pis": "8",
+  "porta": "2",
+  "ciutat": "Montmeló",
+  "codi_postal": "8160",
+  "pais": "Espanya"
+},{
+  "_id": {
+    "$oid": "645a658eb40d5f59540d40d9"
+  },
+  "carrer": "Aribau",
+  "numero": "153",
+  "pis": "5",
+  "porta": "C",
+  "ciutat": "Premià de Mar",
+  "codi_postal": "8330",
+  "pais": "Espanya"
+}]

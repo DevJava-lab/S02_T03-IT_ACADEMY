@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "645a66f4b40d5f59540d40fa"
+  },
+  "data_venta": {
+    "$date": "2022-09-29T00:00:00.000Z"
+  },
+  "Client": {
+    "$oid": "645a663ab40d5f59540d40de"
+  },
+  "Empleat": {
+    "$oid": "645a66a9b40d5f59540d40eb"
+  },
+  "Ulleres": {
+    "$oid": "645a66e4b40d5f59540d40f4"
+  }
+},{
+  "_id": {
+    "$oid": "645a66f4b40d5f59540d40fb"
+  },
+  "data_venta": {
+    "$date": "2022-03-05T00:00:00.000Z"
+  },
+  "Empleat": {
+    "$oid": "645a66a9b40d5f59540d40ec"
+  },
+  "Client": {
+    "$oid": "645a663ab40d5f59540d40dd"
+  },
+  "Ulleres": {
+    "$oid": "645a66e4b40d5f59540d40f3"
+  }
+},{
+  "_id": {
+    "$oid": "645a66f4b40d5f59540d40fc"
+  },
+  "data_venta": {
+    "$date": "2022-02-13T00:00:00.000Z"
+  },
+  "Empleat": {
+    "$oid": "645a66a9b40d5f59540d40eb"
+  },
+  "Client": {
+    "$oid": "645a663ab40d5f59540d40e1"
+  },
+  "Ulleres": {
+    "$oid": "645a66e4b40d5f59540d40f6"
+  }
+},{
+  "_id": {
+    "$oid": "645a66f4b40d5f59540d40fd"
+  },
+  "data_venta": {
+    "$date": "2022-05-23T00:00:00.000Z"
+  },
+  "Empleat": {
+    "$oid": "645a66a9b40d5f59540d40ed"
+  },
+  "Client": {
+    "$oid": "645a663ab40d5f59540d40e0"
+  },
+  "Ulleres": {
+    "$oid": "645a66e4b40d5f59540d40f7"
+  }
+},{
+  "_id": {
+    "$oid": "645a66f4b40d5f59540d40fe"
+  },
+  "data_venta": {
+    "$date": "2022-07-15T00:00:00.000Z"
+  },
+  "Empleat": {
+    "$oid": "645a66a9b40d5f59540d40ed"
+  },
+  "Client": {
+    "$oid": "645a663ab40d5f59540d40e3"
+  },
+  "Ulleres": {
+    "$oid": "645a66e4b40d5f59540d40f8"
+  }
+}]

@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "645bcdf86e9d02d27be76a0f"
+  },
+  "client": {
+    "$oid": "645b79ec6e9d02d27be769b3"
+  },
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769df"
+  },
+  "dia_hora": {
+    "$date": "2022-03-22T18:30:00.000Z"
+  },
+  "entrega": "Botiga",
+  "detall_articles": [
+    {
+      "nom": "Beguda",
+      "referencia": {
+        "$oid": "645bbad56e9d02d27be769f8"
+      },
+      "quantitat": 8
+    },
+    {
+      "nom": "Hamburguesa",
+      "referencia": {
+        "$oid": "645bb9fc6e9d02d27be769f3"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769ec"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769ee"
+      },
+      "quantitat": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645bcdf86e9d02d27be76a10"
+  },
+  "dia_hora": {
+    "$date": "2020-03-22T17:45:00.000Z"
+  },
+  "client": {
+    "$oid": "645b79ec6e9d02d27be769ad"
+  },
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769df"
+  },
+  "entrega": "Client",
+  "detall_articles": [
+    {
+      "nom": "Beguda",
+      "referencia": {
+        "$oid": "645bbad56e9d02d27be769f9"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Hamburguesa",
+      "referencia": {
+        "$oid": "645bb9fc6e9d02d27be769f2"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769ed"
+      },
+      "quantitat": 1
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769eb"
+      },
+      "quantitat": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645bcdf86e9d02d27be76a11"
+  },
+  "dia_hora": {
+    "$date": "2019-03-22T21:00:00.000Z"
+  },
+  "client": {
+    "$oid": "645b79ec6e9d02d27be769af"
+  },
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769de"
+  },
+  "entrega": "Botiga",
+  "detall_articles": [
+    {
+      "nom": "Beguda",
+      "referencia": {
+        "$oid": "645bbad56e9d02d27be769f8"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Hamburguesa",
+      "referencia": {
+        "$oid": "645bb9fc6e9d02d27be769f2"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769ee"
+      },
+      "quantitat": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645bcdf86e9d02d27be76a12"
+  },
+  "dia_hora": {
+    "$date": "2022-03-22T20:50:00.000Z"
+  },
+  "client": {
+    "$oid": "645b79ec6e9d02d27be769b1"
+  },
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769e0"
+  },
+  "entrega": "Client",
+  "detall_articles": [
+    {
+      "nom": "Beguda",
+      "referencia": {
+        "$oid": "645bbad56e9d02d27be769f7"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Hamburguesa",
+      "referencia": {
+        "$oid": "645bb9fc6e9d02d27be769f4"
+      },
+      "quantitat": 2
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769ed"
+      },
+      "quantitat": 4
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "645bcdf86e9d02d27be76a13"
+  },
+  "dia_hora": {
+    "$date": "2021-03-22T20:15:00.000Z"
+  },
+  "client": {
+    "$oid": "645b79ec6e9d02d27be769ae"
+  },
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769de"
+  },
+  "entrega": "Client",
+  "detall_articles": [
+    {
+      "nom": "Beguda",
+      "referencia": {
+        "$oid": "645bbad56e9d02d27be769f9"
+      },
+      "quantitat": 3
+    },
+    {
+      "nom": "Hamburguesa",
+      "referencia": {
+        "$oid": "645bb9fc6e9d02d27be769f1"
+      },
+      "quantitat": 3
+    },
+    {
+      "nom": "Pizza",
+      "referencia": {
+        "$oid": "645bb8036e9d02d27be769e9"
+      },
+      "quantitat": 2
+    }
+  ]
+}]

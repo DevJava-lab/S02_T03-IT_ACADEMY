@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "645bb2636e9d02d27be769d8"
+  },
+  "nom": "Òscar",
+  "cognom_1": "Barbero",
+  "cognom_2": "Prieto",
+  "telefon": 617888689,
+  "nif": "43523424H",
+  "carrec": "repartidor",
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769de"
+  }
+},{
+  "_id": {
+    "$oid": "645bb2636e9d02d27be769d9"
+  },
+  "nom": "Ana",
+  "cognom_1": "García",
+  "cognom_2": "Pérez",
+  "telefon": 662491233,
+  "nif": "38806560V",
+  "carrec": "cuiner",
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769de"
+  }
+},{
+  "_id": {
+    "$oid": "645bb2636e9d02d27be769da"
+  },
+  "nom": "Josep",
+  "cognom_1": "Gimenez",
+  "cognom_2": "Maisa",
+  "telefon": 664523991,
+  "nif": "52139756F",
+  "carrec": "repartidor",
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769df"
+  }
+},{
+  "_id": {
+    "$oid": "645bb2636e9d02d27be769db"
+  },
+  "nom": "Enrique",
+  "cognom_1": "Pallols",
+  "cognom_2": "Mas",
+  "telefon": 600845483,
+  "nif": "44672341A",
+  "carrec": "repartidor",
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769df"
+  }
+},{
+  "_id": {
+    "$oid": "645bb2636e9d02d27be769dc"
+  },
+  "nom": "Albert",
+  "cognom_1": "Marimon",
+  "cognom_2": "Recuesta",
+  "telefon": 656143653,
+  "nif": "38916472J",
+  "carrec": "cuiner",
+  "botiga": {
+    "$oid": "645bb3276e9d02d27be769df"
+  }
+}]

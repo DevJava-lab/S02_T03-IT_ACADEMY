@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f2"
+  },
+  "graduacio_vidre_dret": "0",
+  "graduacio_vidre_esquerre": "1",
+  "tipus_muntura": "F",
+  "color_muntura": "vermella",
+  "color_vidre_dret": "rosa",
+  "color_vidre_esquerre": "rosa",
+  "preu": "125",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40ef"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e7"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f3"
+  },
+  "graduacio_vidre_dret": "1",
+  "graduacio_vidre_esquerre": "1",
+  "tipus_muntura": "M",
+  "color_muntura": "alumini",
+  "color_vidre_dret": "negre",
+  "color_vidre_esquerre": "negre",
+  "preu": "150",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40ef"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e7"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f4"
+  },
+  "graduacio_vidre_dret": "0",
+  "graduacio_vidre_esquerre": "2",
+  "tipus_muntura": "F",
+  "color_muntura": "marró",
+  "color_vidre_dret": "beig",
+  "color_vidre_esquerre": "beig",
+  "preu": "90",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e8"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f5"
+  },
+  "graduacio_vidre_dret": "1",
+  "graduacio_vidre_esquerre": "0",
+  "tipus_muntura": "F",
+  "color_muntura": "negre",
+  "color_vidre_dret": "blau",
+  "color_vidre_esquerre": "blau",
+  "preu": "225",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40ef"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e6"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f6"
+  },
+  "graduacio_vidre_dret": "0",
+  "graduacio_vidre_esquerre": "0",
+  "tipus_muntura": "P",
+  "color_muntura": "negre",
+  "color_vidre_dret": "gris",
+  "color_vidre_esquerre": "gris",
+  "preu": "230",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e9"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f7"
+  },
+  "graduacio_vidre_dret": "0",
+  "graduacio_vidre_esquerre": "0",
+  "tipus_muntura": "P",
+  "color_muntura": "groga",
+  "color_vidre_dret": "gris",
+  "color_vidre_esquerre": "gris",
+  "preu": "150",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e5"
+  }
+},{
+  "_id": {
+    "$oid": "645a66e4b40d5f59540d40f8"
+  },
+  "graduacio_vidre_dret": "0",
+  "graduacio_vidre_esquerre": "0",
+  "tipus_muntura": "M",
+  "color_muntura": "multicolor",
+  "color_vidre_dret": "negre",
+  "color_vidre_esquerre": "negre",
+  "preu": "105",
+  "Proveidor": {
+    "$oid": "645a66cdb40d5f59540d40f0"
+  },
+  "Marca": {
+    "$oid": "645a664fb40d5f59540d40e5"
+  }
+}]

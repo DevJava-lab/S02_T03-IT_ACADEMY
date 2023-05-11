@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "645b87c26e9d02d27be769c1"
+  },
+  "nom": "Barcelona",
+  "localitat": [
+    {
+      "$oid": "645b85a56e9d02d27be769b6"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769b7"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769b8"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769b9"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769bb"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769bc"
+    },
+    {
+      "$oid": "645b85a56e9d02d27be769ba"
+    }
+  ]
+}]
